@@ -8,10 +8,10 @@
                       </li>
                       <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Articles</a>
                         <div class="dropdown-menu" role="menu">
-                            <a class="dropdown-item" role="presentation" href="Moments.html">Moments</a>
-                            <a class="dropdown-item" role="presentation" href="Let-s-talk-about-yourself.html">Let's talk about yourself</a>
-                            <a class="dropdown-item" role="presentation" href="my-experience-with-cryptocurrency.php">My experience with Cryptocurrency’s website spam</a>
-                            <a class="dropdown-item" role="presentation" href="ds.html">Disappointment :)</a>
+                            <a class="dropdown-item" role="presentation" href="articles/Moments.php">Moments</a>
+                            <a class="dropdown-item" role="presentation" href="articles/Let-s-talk-about-yourself.php">Let's talk about yourself</a>
+                            <a class="dropdown-item" role="presentation" href="articles/my-experience-with-cryptocurrency.php">My experience with Cryptocurrency’s website spam</a>
+                            <a class="dropdown-item" role="presentation" href="articles/ds.php">Disappointment :)</a>
                         </div>
                     </li>
                       <li class="nav-item" role="presentation"><a class="nav-link" href="articles/about-me.php">About me</a></li>
